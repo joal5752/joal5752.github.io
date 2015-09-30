@@ -1,5 +1,32 @@
----
-title: Jack Alvarez
-layout: post
----
+# Site settings
+title: "Jack Alvarez"
+email: jacob@jacobtomlinson.co.uk
+description: "A dark blog theme for Jekyll."
+baseurl: ""
+url: "http://carte-noire.jacobtomlinson.co.uk/"
+title_description: |
+  Hi I'm Jack. I come from California. I love Kendrick Lamer.
+title_image: "https://avatars3.githubusercontent.com/u/8630410?v=3&s=460"
+# google_analytics: "UA-20365477-4"
+# disqus_account: cartenoire
+github_repository: https://github.com/jacobtomlinson/carte-noire
+# addthis_id: ra-513c6fa83da6ec67
+post_limit: 5
 
+# Social usernames/URLs
+twitter_username: torchyhd
+github_username:  joal5752
+linkedin_link: http://linkedin.com/johnleealvarez/
+# google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
+# stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
+
+# Footer
+# footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+# footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+permalink: pretty
+exclude: [vendor]
