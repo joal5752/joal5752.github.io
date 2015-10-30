@@ -1,35 +1,19 @@
 [
   
   {
-    "title"    : "Test Blog",
+    "title"    : "Sponsorship???",
     "category" : "",
-    "tags"     : "Test",
-    "url"      : "/jekyll/2015/09/30/Test-Blog/",
-    "date"     : "2015-09-30 00:00:00 -0600"
+    "tags"     : "blog, About Me, Sponsorship, Paragon Fitwear, Fitness, Athlete",
+    "url"      : "/2015/10/21/Sponsorship/",
+    "date"     : "2015-10-21 00:00:00 -0600"
     } ,
     
   {
-    "title"    : "Carte Noire in Action",
+    "title"    : "My First Blog!",
     "category" : "",
-    "tags"     : "demo, action, carte, noire",
-    "url"      : "/jekyll/2014/06/10/carte-noire-in-action/",
-    "date"     : "2014-06-10 06:31:19 -0600"
-    } ,
-    
-  {
-    "title"    : "So, What is Jekyll?",
-    "category" : "",
-    "tags"     : "about, jekyll",
-    "url"      : "/jekyll/2014/06/09/so-what-is-jekyll/",
-    "date"     : "2014-06-09 06:32:18 -0600"
-    } ,
-    
-  {
-    "title"    : "Using thumbnails",
-    "category" : "",
-    "tags"     : "thumbnails, carte noire",
-    "url"      : "/jekyll/2014/06/08/using-thumbnails/",
-    "date"     : "2014-06-08 06:32:18 -0600"
+    "tags"     : "blog, About Me",
+    "url"      : "/2015/10/15/First-Blog/",
+    "date"     : "2015-10-15 00:00:00 -0600"
     } 
     
   ]
